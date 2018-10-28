@@ -1,0 +1,5 @@
+created pyramid generator and drew it
+create triangular prism, pyramid
+draw them
+create 2 more shapes
+draw every shape on screen with different color
